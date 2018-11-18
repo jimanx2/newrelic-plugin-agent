@@ -1,7 +1,8 @@
 Addendum
 ========
 
-This repo adds compatibility of couchdb 2.x for newrelic-plugin-agent
+This repo adds compatibility of couchdb 2.x for newrelic-plugin-agent.
+
 use `python setup.py install` to build and install the plugin
 
 NewRelic Plugin Agent
